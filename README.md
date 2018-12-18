@@ -1,4 +1,4 @@
-# structured-data
+# Structured data
 
 ## In theory
 
