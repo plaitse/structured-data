@@ -16,7 +16,7 @@ Inside the <script> tag element, you can list properties to give Google more inf
 
 First, set @context to http://schema.org to tell Google you're using schema.org structured data. Then, Set @type to what kind of thing you're describing: an article, a book, an event ors an organisation (company), etc.
 
-## To test
+## To verify
 
 To see if your structured data is correctly implemented and doesn’t necessary properties, you can use Google testing tool: https://search.google.com/structured-data/testing-tool/u/0/ 
 
