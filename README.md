@@ -1,5 +1,7 @@
 # structured-data
 
+## In theory
+
 You can provide explicit informations about the meaning of your HTML page with structured data to classify the page content and to enable special search result features, for instance a graphical result - or a “rich result” like Google says - for a recipe in a host carousel :
 
 The information could be the ingredients for the recipe, or the materials needed to build the object or even the name of the chapters of the book.
