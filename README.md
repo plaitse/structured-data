@@ -16,11 +16,11 @@ In terms of code, it is simply a JavaScript-oriented object notation inside a ``
 
 Inside the ```<script>``` tag element, you can list properties to give Google more information about the thing being described. You don’t have to provide all of them but it means that it is less likely to work with Google features. The order of the properties don't matter.
 
-First, set @context to http://schema.org to tell Google you're using schema.org structured data. Then, Set @type to what kind of thing you're describing: an article, a book, an event ors an organisation (company), etc.
+First, set @context to http://schema.org to tell Google you're using schema.org structured data. Then, Set @type to what kind of thing you're describing: an article, a book, an event or an organisation (company), etc.
 
 ## To verify
 
-To see if your structured data is correctly implemented and doesn’t necessary properties, you can use Google testing tool: https://search.google.com/structured-data/testing-tool/u/0/ 
+To see if your structured data is correctly implemented and doesn’t lack necessary properties, you can use Google testing tool: https://search.google.com/structured-data/testing-tool/u/0/ 
 
 ## Further info
 
