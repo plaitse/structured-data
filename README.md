@@ -14,7 +14,7 @@ One important point though, this structured data is not representative of the ma
 
 In terms of code, it is simply a JavaScript-oriented object notation inside a ```<script>``` tag element in either the ```<head>``` or ```<body>``` of the page - that means basically anywhere in the page. It is hidden from the user.
 
-Inside the ```<script>``` tag element, you can list properties to give Google more information about the thing being described. You don’t have to provide all of them but it means that it is less likely to work with Google features. However, the order of the properties don't matter.
+Inside the ```<script>``` tag element, you can list properties to give Google more information about the thing being described. You don’t have to provide all of them but it means that it is less likely to work with Google features. The order of the properties don't matter.
 
 First, set @context to http://schema.org to tell Google you're using schema.org structured data. Then, Set @type to what kind of thing you're describing: an article, a book, an event ors an organisation (company), etc.
 
