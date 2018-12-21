@@ -1,5 +1,7 @@
 # Structured data
 
+Live example: https://codepen.io/plaitse/pen/YdZVQo
+
 ## In theory
 
 You can provide explicit informations about the meaning of your HTML page with structured data to classify the page content and to enable special search result features, for instance a graphical result - or a “rich result” like Google says - in a host carousel :
