@@ -32,7 +32,7 @@ body {
   min-height: 100px;
   padding: 0 50px 0 50px;
 
-  background: #985eff;
+  background-color: #985eff;
   
   font-family: Baskerville, "Baskerville Old Face";
   font-size: 2.5rem;
@@ -47,7 +47,7 @@ body {
   width: 100vw;
   padding: 50px 0 50px 0;
   
-  background: #dbb1ff;
+  background-color: #dbb1ff;
   color: #000;
 }
 
@@ -93,5 +93,5 @@ body {
   justify-content: center;
   min-height: 120px;
   
-  background: #bb86fc;
+  background-color: #bb86fc;
 }
